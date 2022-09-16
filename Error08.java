@@ -8,8 +8,8 @@ public class Error08 {
     System.out.print("Enter the cost of one apple: ");
     int costApples = Integer.parseInt(in.nextLine());
 
-    int totalCost = numApples * costApples; System.out.println(totalCost);
-    in.close();
+    int totalCost = numApples * costApples;
+    System.out.println(totalCost);
   }
 }
 /*
