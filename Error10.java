@@ -11,4 +11,7 @@ public class Error10 {
 /*
 Use input
 Will
+
+Excpected output
+W
 */
