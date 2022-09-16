@@ -9,7 +9,7 @@ public class Error08 {
     int costApples = Integer.parseInt(in.nextLine());
 
     int totalCost = numApples * costApples;
-    System.out.println(totalCost);
+    System.out.println("The total cost is " + totalCost);
   }
 }
 /*
