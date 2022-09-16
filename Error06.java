@@ -1,4 +1,4 @@
-public class Error6 {
+public class Error06 {
   public static void main(String[] args) {
     int num1 = 6;
     int num2 = 0;
