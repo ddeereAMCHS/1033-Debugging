@@ -1,10 +1,8 @@
-# Template
+# Debugging
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Mon 9/19 at 11:59 PM
 
-- Create a program called `.java`
-- Prompt the user for 
-
-***Example Input:***\
-\
-***Example Output:***
+- Each program in this repository has some sort of error (compilation, runtime, or logic)
+  - For the programs that say "Use inputs" in a comment, use those inputs when you run the program
+- Fix the errors in the program
+- Answer the corresponding question in the Schoology assessment describing what was wrong with the program\
