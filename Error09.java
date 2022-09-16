@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Error9 {
+public class Error09 {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
     String fullName = in.nextLine();
