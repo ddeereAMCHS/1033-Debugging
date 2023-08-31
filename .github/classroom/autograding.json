@@ -25,7 +25,7 @@
       "setup": "javac Error03.java",
       "run": "java Error03",
       "input": "7",
-      "output": "7",
+      "output": "Enter your age: 7",
       "comparison": "exact",
       "timeout": 2,
       "points": null
@@ -35,7 +35,7 @@
       "setup": "javac Error04.java",
       "run": "java Error04",
       "input": "7",
-      "output": "Your age is 7",
+      "output": "Enter your age: Your age is 7",
       "comparison": "exact",
       "timeout": 2,
       "points": null
@@ -81,21 +81,21 @@
       "points": null
     },
     {
-      "name": "Error10",
-      "setup": "javac Error10.java",
-      "run": "java Error10",
-      "input": "Will",
-      "output": "Enter your first name: W",
+      "name": "Error09",
+      "setup": "javac Error09.java",
+      "run": "java Error09",
+      "input": "Will Smith",
+      "output": "Enter your full name: Will",
       "comparison": "exact",
       "timeout": 2,
       "points": null
     },
     {
-      "name": "Error09",
-      "setup": "javac Error09.java",
-      "run": "java Error09",
-      "input": "Will Smith",
-      "output": "Will",
+      "name": "Error10",
+      "setup": "javac Error10.java",
+      "run": "java Error10",
+      "input": "Will",
+      "output": "Enter your first name: W",
       "comparison": "exact",
       "timeout": 2,
       "points": null
